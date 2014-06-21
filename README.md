@@ -42,12 +42,22 @@
 
 ### Luke Melia - Growing a Tech Community
 
-* 
+* Schedule next meetup before current one happens
 
 ### Nathan Artz - An Approach to Developing and Testing Third Party Javascript Widgets
 
 ### Samantha John, Jason Brennan - Designing a better Programmer Community
 
+### Flatiron School
+
+* Surfraw
+
 ### Michael May - Edge Caching for Dynamic Rails Apps
+
+* fastly (fastly-rails)
+* `config.action_controller.asset_host`: https://devcenter.heroku.com/articles/using-amazon-cloudfront-cdn
+* `Cache-Control: private`
+* `Surrogate-Control` header
+* http://brucespang.com/bimodal
 
 ### James Golick - How To Debug Anything
